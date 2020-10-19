@@ -1,6 +1,4 @@
-# CS/CE/TE 6378: Project II + Project III
-
-## Instructor: Ravi Prakash
+## Instructor: Animesh Chaturvedi
 
 ## Mini Google File System
 
