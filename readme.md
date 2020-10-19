@@ -5,7 +5,7 @@
 ## 1 Requirements
 
 1. Source code is in Java programming language.
-2. The program must run on UTD lab machines (dc01, dc02, ..., dc45).
+
 
 ## 2 Client-Server Model
 
